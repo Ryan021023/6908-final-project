@@ -1,0 +1,7 @@
+RPLCD
+rpi-ws281x
+opencv-python-headless
+mediapipe
+tflite-runtime
+pygame
+numpy
